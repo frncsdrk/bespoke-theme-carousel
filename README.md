@@ -34,6 +34,22 @@ bespoke.from('#presentation', [
 ]);
 ```
 
+### View the theme like on the demo page
+
+To view the theme like on the demo page you have to use the bespoke-scale plugin with the parameter `'zoom'`:
+
+```js
+bespoke.from('article', [
+  carousel(),
+  keys(),
+  touch(),
+  bullets('li, .bullet'),
+  scale('zoom'),
+  progress(),
+  backdrop()
+]);
+```
+
 ## Package managers
 
 ### npm
