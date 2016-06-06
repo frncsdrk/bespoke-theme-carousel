@@ -12,7 +12,7 @@ bespoke.from('article', [
   keys(),
   touch(),
   bullets('li, .bullet'),
-  scale(),
+  scale('zoom'),
   progress(),
   backdrop()
 ]);
