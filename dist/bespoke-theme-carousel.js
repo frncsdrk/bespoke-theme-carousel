@@ -1,7 +1,7 @@
 /*!
- * bespoke-theme-carousel v1.0.0
+ * bespoke-theme-carousel v0.1.0
  *
- * Copyright 2016, 
+ * Copyright 2016, frncsdrk
  * This content is released under the MIT license
  * 
  */
