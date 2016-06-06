@@ -5,7 +5,7 @@
   "homepage": "https://github.com/frncsdrk/bespoke-theme-carousel",
   "bugs": "https://github.com/frncsdrk/bespoke-theme-carousel/issues",
   "author": {
-    "name": null,
+    "name": "frncsdrk",
     "url": "https://github.com/frncsdrk"
   },
   "main": "./dist/bespoke-theme-carousel.js",
