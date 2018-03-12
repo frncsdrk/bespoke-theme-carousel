@@ -14,7 +14,9 @@
     "url": "git://github.com/frncsdrk/bespoke-theme-carousel.git"
   },
   "scripts": {
-    "test": "gulp"
+    "demo": "gulp demo",
+    "test": "gulp",
+    "publish": "git push origin `git subtree push --prefix demo/dist origin gh-pages`:gh-pages --force"
   },
   "peerDependencies": {
     "bespoke": ">=1.0.0"
